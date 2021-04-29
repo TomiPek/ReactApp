@@ -1,0 +1,35 @@
+.jumbotron {
+  margin-top: 40px;
+  background-color: coral;
+}
+
+.App {
+  margin-top: 40px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+table,
+th,
+td {
+  background-color: aquamarine;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+body {
+  background-color: #a4d3df;
+  color: rgb(107, 19, 19);
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
